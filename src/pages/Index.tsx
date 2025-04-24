@@ -16,7 +16,7 @@ const Index = () => {
       <div className="container mx-auto px-4 py-16 md:py-24">
         <div className="text-center max-w-3xl mx-auto">
           <h1 className="text-4xl md:text-5xl font-bold mb-6 bg-clip-text text-transparent bg-gradient-to-r from-blue-600 to-purple-600">
-            Certificate Canvas Creator
+            Certificate-Generator
           </h1>
           <p className="text-xl text-gray-600 mb-8">
             Create beautiful, professional certificates in minutes. Customize templates, add your signature, and download instantly.
